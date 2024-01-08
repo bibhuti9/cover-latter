@@ -92,6 +92,38 @@
 ----------------------------------
 
 
+## Sanatan Dharmaya
+
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; align-items: center;">
+<img width="200" alt="Screenshot 2023-11-05 at 1 58 05 AM" src="https://github.com/bibhuti9/portfolio/assets/36328136/ecfa97a0-fbe2-49e7-886c-a631f47168dd">
+<img width="200" alt="Screenshot 2023-11-05 at 1 57 54 AM" src="https://github.com/bibhuti9/portfolio/assets/36328136/a06ff816-879c-4ea2-a672-8090afd3c692">
+<img width="200" alt="Screenshot 2023-11-05 at 1 57 43 AM" src="https://github.com/bibhuti9/portfolio/assets/36328136/f5824a9a-bd03-4395-b635-3d88cb50b634">
+<img width="200" alt="Screenshot 2023-11-05 at 1 57 32 AM" src="https://github.com/bibhuti9/portfolio/assets/36328136/4a292db4-2166-4a62-8b28-a9c631b2fac1">
+<img width="200" alt="Screenshot 2023-11-05 at 1 57 10 AM" src="https://github.com/bibhuti9/portfolio/assets/36328136/b32250b9-8674-4bc2-b077-09b2f72aa655">
+<img width="200" alt="Screenshot 2023-11-05 at 1 56 58 AM" src="https://github.com/bibhuti9/portfolio/assets/36328136/41054976-65d2-4701-9921-65cdd2565e06">
+<img width="200" alt="Screenshot 2023-11-05 at 1 56 47 AM" src="https://github.com/bibhuti9/portfolio/assets/36328136/74e8aa1f-879d-4eec-9e45-b24fe20f521d">
+<img width="200" alt="Screenshot 2023-11-05 at 1 56 38 AM" src="https://github.com/bibhuti9/portfolio/assets/36328136/cba96fd4-1a8b-4c52-9ea0-db533303aac3">
+
+
+</div>
+
+
+#### Tools & Technologies 
+
+| No      | Tools & Tech                                                          |
+| ------- | ------------------------------------------------------------------    |
+| 1       | Type Script                                                           |
+| 2       | IOS & Android                                                         |
+| 3       | Mobx (Persist)/ Redux                                                 |
+| 4       | Firebase Emulators                                                    |
+| 5       | Laravel                                                               |
+| 6       | Push Notification                                                     |                                      
+| 8       | IAP features                                                          |
+
+
+
+
 
 
 ## 1. Aifluencer
